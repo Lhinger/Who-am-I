@@ -2,4 +2,4 @@ theme: jekyll-theme-hacker
 title: Who am I?
 
 github:
-  is_project_page: false
+is_project_page: false
